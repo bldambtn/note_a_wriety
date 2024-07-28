@@ -2,6 +2,7 @@
 const express = require("express");
 const path = require("path");
 const fs = require("fs").promises; // Using the promises API of fs module for async operations
+const { v4: uuidv4 } = require("uuid"); // Import uuid library
 
 // Initialize the Express application
 const app = express();
@@ -37,7 +38,7 @@ app.post("/api/notes", async (req, res) => {
 
     // Create a new note object with a unique id
     const newNote = {
-      id: (notes.length + 1).toString(),
+      id: uuidv4(), // Generate a unique UUID for the new note
       title,
       text,
     };
