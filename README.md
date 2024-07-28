@@ -32,13 +32,31 @@ Mock-Up
 
 ## Walkthrough
 
-*   Link:
+*   Link to Deployed Application: https://bldambtn.github.io/note_a_wriety/ 
 
-*   GIF:
+![Walkthrough of expected application functionality](./public/assets/11-express-homework-demo.gif)
 
 ## Credits
 
+### Collaborator(s):
+
+*   Travis Haynie, https://github.com/TravisHaynie, personal communication in class and in a zoom about project on July 28,2024 GitHub; helped with route files, locating note in db.json for delete functionality.
+
 ### Research Sources:
+
+*   Expressjs.com (n.d.). (accessed July, 28 2024). Express. Retrieved from https://expressjs.com/
+
+*   Medium (August 19, 2023). (accessed July, 28 2024). Nodejs #Day3: Exploring HTTP Methods — GET, POST, DELETE, PATCH, PUT, and More. Retrieved from https://sandydev.medium.com/nodejs-day3-exploring-http-methods-get-post-delete-patch-put-and-more-cd71449acaf2 
+
+*   Mozilla. (n.d.). (accessed July, 28 2024). Express Tutorial Part 4: Routes and controllers. Retrieved from https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
+
+*   Mozilla. (n.d.). (accessed July, 28 2024). Express Tutorial Part 5: Displaying library data. Retrieved from https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data 
+
+*   Mozilla. (n.d.). (accessed July, 28 2024). Express Tutorial Part 6: Working with forms. Retrieved from https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms 
+
+*   W3Schools. (n.d.). (accessed July, 28 2024). NHTML File Paths. Retrieved from https://www.w3schools.com/html/html_filepaths.asp 
+
+*   W3Schools. (n.d.). (accessed July, 28 2024). Node.js. Retrieved from https://www.w3schools.com/nodejs/nodejs_intro.asp
 
 ### Source Code:
 
@@ -66,6 +84,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Features
-
