@@ -32,7 +32,7 @@ Mock-Up
 
 ## Walkthrough
 
-*   Link to Deployed Application: https://bldambtn.github.io/note_a_wriety/ 
+*   Link to Deployed Application: [https://bldambtn.github.io/note_a_wriety/ ](https://note-a-wriety.onrender.com)
 
 ![Walkthrough of expected application functionality](./public/assets/11-express-homework-demo.gif)
 
